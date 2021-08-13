@@ -1,0 +1,16 @@
+PODS:
+  - MZDownloadManager (3.6)
+
+DEPENDENCIES:
+  - MZDownloadManager
+
+SPEC REPOS:
+  trunk:
+    - MZDownloadManager
+
+SPEC CHECKSUMS:
+  MZDownloadManager: 13a3bdf2dbb4866526d30f454e8061b8571bdf7d
+
+PODFILE CHECKSUM: ff14671f11ee42a9625f5c064777b549c86a6657
+
+COCOAPODS: 1.10.1
